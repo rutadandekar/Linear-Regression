@@ -1,5 +1,5 @@
 # Linear Regression
-A simple neural network to understand regression.
+A simple neural network to understand linear regression.
 
 ## Libraries
 1. Tensorflow.
